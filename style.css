@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+body {
+   background-color: rgb(203, 203, 231);
+}
+.title {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    margin: 10px;
+   
+}
+
+img {
+    max-width: 320px;
+    border-radius: 12px;
+}
+
+.item:hover  {
+    border: solid 1px black;
+    border-radius: 12px; 
+    
+}
+
+img:hover {
+    max-width: 400px;
+
+}
