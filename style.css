@@ -29,8 +29,3 @@ img {
     border-radius: 12px; 
     
 }
-
-img:hover {
-    max-width: 400px;
-
-}
