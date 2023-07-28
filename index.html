@@ -6,52 +6,60 @@
     <title>Movies To Watch</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<script src="script.js"></script>
 <body>
+    
     <div class="title">
         <h1>Movies To Watch </h1>
         <img src="./pngegg.png" height="80px" width="80px"/>
     </div>
     <div class="grid">
-    <div class="item item1">
-        <h2><a href="https://www.amazon.com/gp/video/detail/B00BQPJE7S/ref=atv_hm_vid_c_vJb2Rv_1_1">Good Will Hunting</a> </h2>
+    <div id ="GWH" onClick= 'clickFunction()' class="item item1">
+        <h2> Good Will Hunting</h2>
         <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRt8tkf3OTJjqpG0hBeJgtmQmtJgAAI7vOsn8BE9wlhxLuBuFI_" alt="movie image" />
         <p> Drama/Romance</p>
     </div>
-    <div class="item item2">
-        <h2> <a href="https://www.hbo.com/movies/500-days-of-summer">(500) Days of Summer</a> </h2> 
+    <div onClick='clickFunction2()' class="item item2">
+        <h2> (500) Days of Summer </h2> 
         <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfIEWVIK8Bq9gDckzWaXfnHjxYgq3nR9TriQwgSOWsr657OpkJ" alt="movie image"/>
         <p> Romance/Comedy </p>
     </div>
-    <div class="item item3">
-        <h2> <a href=""></a>Inception</h2>
+     <div onClick="clickFunction9()" class="item item9">
+        <h2>Interstellar</h2>
+        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUw076GR7JpnfExoBLTMpiE9otUzk518SylUdC1roF6Ah63NS9">
+        <p>Sci-fi/Adventure</p>
+    </div>
+    <div onClick='clickFunction3()' class="item item3">
+        <h2> Inception</h2>
         <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1wNJi3WBo8wjZ-lxg4xPbg6-X7tQ1w6ZFI5L-RH1rUiOOGxLO"/>
         <p> Action/Sci-fi </p>
     </div>
-    <div class="item item4">
-        <h2><a href=""></a>Dead Poet Society</h2>
+    <div onClick="clickFunction4()" class="item item4">
+        <h2>Dead Poet Society</h2>
         <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF_1e0I2aVxYEX2VAsQGh3N2rNKkqqO60tvpNRczlaJBA2E6vv"/>
         <p>Drama/Teen </p>
     </div>
-    <div class="item item5">
-        <h2><a href="https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f746-562d-2416-7aa1-31e7c3deb7b0?autoplay=0&ref_=atv_cf_strg_wb">Coherence</a></h2>
+    <div onClick='clickFunction5()' class="item item5">
+        <h2>Coherence</h2>
         <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-RNGUNw4SsHWSC9yMoH7fNpezROca7z_7Iq_OZya5zWd53zri"/>
         <p> Sci-fi/Thriller </p>
     </div>
-    <div class="item item6">
-        <h2><a href="https://pluto.tv/en/on-demand/movies/601dbf9287be07001a29e6e6?utm_medium=textsearch&utm_source=google">Into the Wild</a></h2>
+    <div onClick='clickFunction6()' class="item item6">
+        <h2>Into the Wild</h2>
         <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-yiedo2qXDHhifrvzzlG6xmu0wcPkzKVb31di-yOLqoME3uQV"/>
         <p>Drama/Adventure</p>
     </div>
-    <div class="item item7">
-        <h2><a href="https://pluto.tv/en/on-demand/movies/5e83ac701fa6a9001bb9df24?utm_medium=textsearch&utm_source=google">Arrival</a></h2>
+    <div onClick='clickFunction7()' class="item item7">
+        <h2>Arrival</h2>
         <img src="https://cdn3-www.comingsoon.net/assets/uploads/gallery/arrival/arrivalposter.jpg">
         <p>Sci-fi/Thriller </p>
     </div>
-    <div class="item item8">
-        <h2><a href="https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4a437bc5-eb90-43df-bb75-127897245aaf?autoplay=0&ref_=atv_cf_strg_wb">The Perks of Being a Wallflower</a></h2>
+    <div onClick='clickFunction8()' class="item item8">
+        <h2>The Perks of Being a Wallflower</h2>
         <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8NlaTQyYZglbHo-Wq21YNYC_FdRs1nY7YaTK5ealLJjNzPL9k">
         <p>Romance/Drama</p>
     </div>
+   
     </div>
 </body>
 </html>
