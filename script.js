@@ -8,7 +8,7 @@ function clickFunction2() {
 }
 
 function clickFunction3() {
-    window.open('https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04a9f72c-f9c8-c4d1-f97b-6d7ad986a51f?autoplay=0&ref_=atv_cf_strg_wb')
+    window.open('https://www.netflix.com/title/70305903?source=35')
 }
 function clickFunction4() {
     window.open('https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f47d27e9-9077-4f5e-915c-067740d37be7?autoplay=0&ref_=atv_cf_strg_wb')
