@@ -21,10 +21,10 @@ function clickFunction5() {
 }
 function clickFunction7() {
     window.open("https://pluto.tv/en/on-demand/movies/5e83ac701fa6a9001bb9df24?utm_medium=textsearch&utm_source=google")
-}*/
+}
 function clickFunction8() {
     window.open("https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4a437bc5-eb90-43df-bb75-127897245aaf?autoplay=0&ref_=atv_cf_strg_wb")
-}
+}*/
 function clickFunction9() {
-    window.open('https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3351a4fb-de71-4238-a363-a9640cdc4889?autoplay=0&ref_=atv_cf_strg_wb')
+    window.open('https://www.netflix.com/title/70305903?source=35')
 }
