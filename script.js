@@ -10,9 +10,9 @@ function clickFunction2() {
 function clickFunction3() {
     window.open('https://www.netflix.com/title/70305903?source=35')
 }
-function clickFunction4() {
+/*function clickFunction4() {
     window.open('https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f47d27e9-9077-4f5e-915c-067740d37be7?autoplay=0&ref_=atv_cf_strg_wb')
-}
+}*/
 function clickFunction5() {
     window.open('https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f746-562d-2416-7aa1-31e7c3deb7b0?autoplay=0&ref_=atv_cf_strg_wb')
 }
