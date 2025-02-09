@@ -4,7 +4,7 @@ function clickFunction() {
 }
 
 function clickFunction2() {
-    window.open('https://www.hbo.com/movies/500-days-of-summer')
+    window.open('https://www.hulu.com/movie/500-days-of-summer-00d02322-3b21-4663-ae22-c2c4a2db3f9f?entity_id=00d02322-3b21-4663-ae22-c2c4a2db3f9f)
 }
 
 function clickFunction3() {
