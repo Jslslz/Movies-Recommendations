@@ -16,9 +16,9 @@ function clickFunction4() {
 function clickFunction5() {
     window.open('https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f746-562d-2416-7aa1-31e7c3deb7b0?autoplay=0&ref_=atv_cf_strg_wb')
 }
-function clickFunction6() {
+/*function clickFunction6() {
     window.open('https://pluto.tv/en/on-demand/movies/601dbf9287be07001a29e6e6?utm_medium=textsearch&utm_source=google')
-}
+}*/
 function clickFunction7() {
     window.open("https://pluto.tv/en/on-demand/movies/5e83ac701fa6a9001bb9df24?utm_medium=textsearch&utm_source=google")
 }
