@@ -28,3 +28,9 @@ function clickFunction8() {
 function clickFunction9() {
     window.open('https://www.netflix.com/title/70305903?source=35')
 }
+/* function clickFunction10() {
+    window.open('https://www.netflix.com/title/70305903?source=35')
+}
+function clickFunction11() {
+    window.open('https://www.netflix.com/title/70305903?source=35')
+} */
